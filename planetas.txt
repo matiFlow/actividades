@@ -1,0 +1,3 @@
+planeta1 = Mercurio
+planeta2 = Venus
+planeta3 = tierra

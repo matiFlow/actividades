@@ -1,0 +1,2 @@
+estado1 = Solido
+estado2 = Liquido 

@@ -1,0 +1,3 @@
+dia1 = Lunes
+dia2 = Martes
+dia3 = Miercoles
