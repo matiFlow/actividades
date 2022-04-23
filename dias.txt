@@ -1,3 +1,7 @@
 dia1 = Lunes
 dia2 = Martes
 dia3 = Miercoles
+dia4 = jueves
+dia5 = viernes
+dia6 = sabado
+dia7 = Domingo

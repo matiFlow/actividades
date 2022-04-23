@@ -1,3 +1,7 @@
 planeta1 = Mercurio
 planeta2 = Venus
 planeta3 = tierra
+planeta4 = Marte
+planeta5 = saturno
+planeta6 = neptunio
+planeta7 = jupiter
